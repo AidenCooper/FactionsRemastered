@@ -1,0 +1,7 @@
+config-version: 1
+
+description:
+  help: "Envía este mensaje de ayuda."
+  reload: "Recarga los archivos de configuración."
+
+prefix: "<gray>[</gray><green>Factions</green><gray>]</gray> "

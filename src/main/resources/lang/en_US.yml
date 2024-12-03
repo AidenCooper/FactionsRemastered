@@ -1,0 +1,11 @@
+config-version: 1
+
+console:
+
+  locale-error: ""
+
+description:
+  help: "Sends this help message."
+  reload: "Reloads the config files."
+
+prefix: "<gray>[</gray><green>Factions</green><gray>]</gray> "
